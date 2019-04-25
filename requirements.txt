@@ -1,5 +1,0 @@
-!pip install pandas
-!pip install numpy
-!pip install bqplot
-!pip install ipywidgets
-!pip install matplotlib
